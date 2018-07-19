@@ -2,7 +2,7 @@
 # Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 # PECMAC125A
 # This code is designed to work with the PECMAC125A_DLCT03C20 I2C Mini Module available from ControlEverything.com.
-# https://www.controleverything.com/content/Current?sku=PECMAC125A_DLCT03C20#tabs-0-product_tabset-2
+# https://store.ncd.io/?fwp_product_type=power-monitoring
 
 import smbus
 import time
